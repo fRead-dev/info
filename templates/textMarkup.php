@@ -12,9 +12,5 @@ trait __fRead_textMarkup{
     const textStyleItalic =         ["::BI", "::EI"];
     const textStyleBold =           ["::BB", "::EB"];
 
-    const del = [
-                    "\r",
-                    "\0",
-                    "\t"
-                  ];
+    const del = ["\r", "\0", "\t"];
 }
