@@ -1,0 +1,23 @@
+{
+  "ver": "1.0",
+
+  "text": {
+    "align": {
+      "left": { "begin": "::BL", "end": "::EL"},
+      "right": { "begin": "::BR", "end": "::ER"},
+      "center": { "begin": "::BC", "end": "::EC"}
+    },
+    "style": {
+      "throughline": { "begin": "::BS", "end": "::ES"},
+      "underline": { "begin": "::BU", "end": "::EU"},
+      "italic": { "begin": "::BI", "end": "::EI"},
+      "bold": { "begin": "::BB", "end": "::EB"}
+    }
+  },
+
+  "del": [
+    "\\r",
+    "\\0",
+    "\\t"
+  ]
+}
