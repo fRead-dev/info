@@ -34,9 +34,41 @@
 
 ## Поддерживаемые ресурсы
 
+--
+
+##### Полный перечень подерживаемых ресурсов
+
 | **Название**       | **Ссылка**                    | **Сокращение** |
 |--------------------|-------------------------------|----------------|
 | FanFiction         | <www.fanfiction.net>          | `ff`           |
 | Книга Фанфиков     | <https://ficbook.net>         | `fb`           |
 | Журнал "Самиздат"  | <http://samlib.ru>            | `sl`           |
 | Archive of Our Own | <https://archiveofourown.org> | `ar`           |
+
+--
+
+##### Допустимые ссылки на "FanFiction"
+
+- `fanfiction.net`
+- `m.fanfiction.net`
+- `www.fanfiction.net`
+
+--
+
+##### Допустимые ссылки на "Книга Фанфиков"
+
+- `ficbook.net`
+- `www.ficbook.net`
+
+--
+
+##### Допустимые ссылки на "Журнал Самиздат"
+
+- `samlib.ru`
+- `www.samlib.ru`
+
+--
+
+##### Допустимые ссылки на "Archive of Our Own"
+
+- `archiveofourown.org`
